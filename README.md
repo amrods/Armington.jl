@@ -1,4 +1,4 @@
-Armington.jl
+# Armington.jl
 
 Armington.jl is a package that implements constant elasticity of substitution utility/production functions.
 
